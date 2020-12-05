@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592319991430",
+    "project_id": "carabuatlogin",
+    "storage_bucket": "carabuatlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592319991430:android:e0cb891c0e2d1db7218b07",
+        "android_client_info": {
+          "package_name": "com.example.carabuatlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592319991430-bf6utvodobvkk35p8hdseh8oop7aj7v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0muS8enp2MPofU3itAjQEI9sr26AZcK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592319991430-bf6utvodobvkk35p8hdseh8oop7aj7v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
